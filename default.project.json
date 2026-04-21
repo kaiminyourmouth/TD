@@ -1,0 +1,41 @@
+{
+  "name": "TDMainline",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "Shared": {
+        "$path": "Src/Shared"
+      },
+      "Assets": {
+        "$path": "Assets/Replicated"
+      }
+    },
+    "ServerScriptService": {
+      "Server": {
+        "$path": "Src/Server"
+      }
+    },
+    "ServerStorage": {
+      "ServerAssets": {
+        "$path": "Assets/Server"
+      }
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "Src/Client"
+        }
+      }
+    },
+    "StarterGui": {
+      "UITemplates": {
+        "$path": "Assets/UI"
+      }
+    },
+    "Workspace": {
+      "Maps": {
+        "$path": "Assets/Maps"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.sourcemap.json
+
+/build/
+/dist/
+/Packages/
+/package-lock.json
+/yarn.lock
+/pnpm-lock.yaml
+/aftman/
+
+.DS_Store
